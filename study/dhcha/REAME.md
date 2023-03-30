@@ -10,4 +10,4 @@ Cell 마다 입력한 사항에 대해 결과를 Enter key로 바로 확인할 �
 Cell 마다 개발 언어를 변경 해 실행 할 수 있습니다.
 또한, pandas(pd), numpy(np) package 및 matplotlib와 같은 시각화 도구를 함께 사용할 수 있습니다. 
 
-![vscode에서 쥬피터 cell에 사용가능한 언어 리스트](./images/주피터Cell언어.png)
+![vscode에서 쥬피터 cell에 사용가능한 언어 리스트](./images/주피터Cell언어.png)
